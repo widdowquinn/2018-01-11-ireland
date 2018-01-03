@@ -1,6 +1,6 @@
 # SPEAKER_NOTES.md - git
 
-Speaker Notes for the 2016-01-09 Software Carpentry git lesson
+Speaker Notes for the 2018-01-11 Software Carpentry git lesson
 
 **TYPE ALL EXAMPLES AS YOU GO. THIS KEEPS THE SPEED SANE, AND ALLOWS YOU TO EXPLAIN EVERY STEP.**
 
