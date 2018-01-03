@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: 'Programming in R: Part One'\nauthor: \"Leighton Pritchard\"\ndate: \"5/12/2017\"\noutput:\n  ioslides_presentation:\n    css: ./includes/custom.css\n    font-family: 'Helvetica'\n    widescreen: True\n    mathjax: local\n    self_contained: false\nruntime: shiny\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n<!--\nSECTION 1: Context\n--!>\n\n# 1. Context\n\n## Background\n\n<!-- This is needed to get the Hutton background throughout --!>\n<img src=\"images/hutton_background.png\" width=\"0px\" height=\"0px\" />",
+    "created" : 1511803033649.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3548826896",
+    "id" : "3386376A",
+    "lastKnownWriteTime" : 1511803269,
+    "last_content_update" : 1511803269036,
+    "path" : "~/Development/GitHub/Teaching/2017-12-04-standrews/lessons/R/day_1/day_1_slides.Rmd",
+    "project_path" : "day_1_slides.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

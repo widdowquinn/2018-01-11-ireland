@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512305240793.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1799864581",
+    "id" : "5104B3CB",
+    "lastKnownWriteTime" : 1512419627,
+    "last_content_update" : 1512419627418,
+    "path" : "~/Development/GitHub/Teaching/2017-12-04-standrews/lessons/R/hybrid_lesson/hybrid_lesson_slides.Rmd",
+    "project_path" : "hybrid_lesson_slides.Rmd",
+    "properties" : {
+        "cursorPosition" : "231,0",
+        "scrollLine" : "214"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
