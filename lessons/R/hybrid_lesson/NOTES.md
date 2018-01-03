@@ -1,5 +1,5 @@
 # `NOTES.md` - `R` lesson
-These notes are for the tutor on day one of the two-day `R` Software Carpentry course, taught 5th December 2017 at the University of St Andrews.
+These notes are for the tutors on the two-part `R` Software Carpentry course, taught 11-12th January 2018 at NUI Galway.
 
 # **THINGS TO REMEMBER**
 
