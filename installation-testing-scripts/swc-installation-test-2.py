@@ -112,14 +112,14 @@ CHECKS = [
     #'sqlite3',         # Command line tool
     #'sqlite3-python',  # Python package
 # Python
-    'python',
-    'ipython',         # Command line tool
-    'IPython',         # Python package
-    'argparse',        # Useful for utility scripts
-    'numpy',
-    'scipy',
-    'matplotlib',
-    'pandas',
+    #'python',
+    #'ipython',         # Command line tool
+    #'IPython',         # Python package
+    #'argparse',        # Useful for utility scripts
+    #'numpy',
+    #'scipy',
+    #'matplotlib',
+    #'pandas',
     #'sympy',
     #'Cython',
     #'networkx',
