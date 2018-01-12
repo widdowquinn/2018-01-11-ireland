@@ -7,8 +7,8 @@ output:
     css: ./includes/custom.css
     font-family: 'Helvetica'
     widescreen: True
-    mathjax: local
-    self_contained: False
+#    mathjax: local
+    self_contained: True
 # runtime: shiny
 ---
 
