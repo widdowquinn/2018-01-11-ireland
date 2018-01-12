@@ -8,7 +8,7 @@ output:
     font-family: 'Helvetica'
     widescreen: True
     mathjax: local
-    self_contained: True
+    self_contained: False
 # runtime: shiny
 ---
 
